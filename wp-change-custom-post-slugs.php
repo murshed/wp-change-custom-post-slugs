@@ -10,7 +10,6 @@
   
 add_action( 'admin_menu', 'wpccps_th_custom_post_slug_menu' );
 function wpccps_th_custom_post_slug_menu() {
-	//add_options_page( 'CPT Slug Changer', 'CPT Slug Changer', 'manage_options', 'th-wp-change-custom-post-slugs', 'wpccps_th_custom_slugs_plugin_options' );
     add_options_page( __('CPT Slug Changer', 'wpccps_th_custom_slugs' ), __('CPT Slug Changer', 'wpccps_th_custom_slugs' ), 'manage_options', 'th-wp-change-custom-post-slugs', 'wpccps_th_custom_slugs_plugin_options' );
 }
 add_action( 'admin_init', 'wpccps_th_custom_post_slug_admin_init' );
