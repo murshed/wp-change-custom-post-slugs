@@ -84,7 +84,7 @@ function wpccps_th_setting_structure_callback_function($option){
 function wpccps_th_custom_slugs_plugin_options() {
 ?>
   <div class="wrap">
-  <iframe src="https://murshidalam.com/" width="100%" height="250"></iframe>
+  <iframe src="https://fahimm.com/" width="100%" height="250"></iframe>
   <hr />
       <h2><?php _e('Custom Post Type Slug Changer', 'wpccps_th_custom_slugs'); ?></h2>
       <?php 
