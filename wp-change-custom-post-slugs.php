@@ -1,11 +1,11 @@
 <?php
 /*
   Plugin Name: CPT Slug Changer
-  Plugin URI: http://murshidalam.com/plugin/cpt-slug-changer
+  Plugin URI: http://fahimm.com/plugin/cpt-slug-changer
   Description: The plugin allows to can easily change Custom Post Type slug from WordPress admin panel.
   Version: 1.0
   Author: FahimMurshed
-  Author URI: http://www.murshidalam.com
+  Author URI: http://www.fahimm.com
  */
   
 add_action( 'admin_menu', 'wpccps_th_custom_post_slug_menu' );
