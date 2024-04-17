@@ -1,6 +1,6 @@
 === CPT Slug Changer ===
 Tags: WP Change Custom Posts Slugs, custom slugs, custom post types
-Tested up to: 4.3
+Tested up to: 6.5
 Donate link: https://www.paypal.me/fahimmurshed
 Contributors: fahimmurshed
 
